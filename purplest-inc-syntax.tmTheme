@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!-- purplest-inc-syntax.tmTheme																		         -->
+<!-- purplest-inc-syntax.tmTheme                                             -->
 <!-- ======================================================================= -->
-<!-- Purplest, Inc. Syntax theme for the TextMate text editor.							 -->
-<!-- 																										 										 -->
-<!-- Purplest, Inc. Syntax [1.0.0]																					 -->
-<!-- (https://github.com/PurplestInc/purplest-inc-syntax										 -->
-<!-- 	/purplest-inc-syntax.tmTheme)	 																				 -->
-<!-- 																										 										 -->
-<!-- Maintained by: Purplest, Inc.																					 -->
-<!-- (https://github.com/PurplestInc)																				 -->
-<!-- (https://github.com/RobDukarski)																				 -->
-<!-- 																										 										 -->
-<!-- @version 1.0.0 (08/26/17)																							 -->
-<!-- @license MIT																											 			 -->
-<!-- @copyright (c) 2017 Purplest, Inc.																			 -->
-<!-- (https://purplest.com)																									 -->
+<!-- Purplest, Inc. Syntax theme for the TextMate text editor                -->
+<!--                                                                         -->
+<!-- Purplest, Inc. Syntax [1.0.0]                                           -->
+<!-- (https://github.com/PurplestInc/purplest-inc-syntax                     -->
+<!-- 	/purplest-inc-syntax.tmTheme)	 		                     -->
+<!--                                                                         -->
+<!-- Maintained by: Purplest, Inc.                                           -->
+<!-- (https://github.com/PurplestInc)                                        -->
+<!-- (https://github.com/RobDukarski)                                        -->
+<!--                                                                         -->
+<!-- @version 1.0.0 (08/26/17)                                               -->
+<!-- @license MIT                                                            -->
+<!-- @copyright (c) 2017 Purplest, Inc.                                      -->
+<!-- (https://purplest.com)                                                  -->
 <!-- ======================================================================= -->
 <plist version="1.0">
 <dict>
