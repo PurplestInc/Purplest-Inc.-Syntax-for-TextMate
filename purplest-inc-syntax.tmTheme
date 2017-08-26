@@ -5,7 +5,7 @@
 <!-- Purplest, Inc. Syntax theme for the TextMate text editor                -->
 <!--                                                                         -->
 <!-- Purplest, Inc. Syntax [1.0.0]                                           -->
-<!-- (https://github.com/PurplestInc/purplest-inc-syntax                     -->
+<!-- (https://github.com/PurplestInc/purplest-inc-syntax-for-textmate        -->
 <!--  /purplest-inc-syntax.tmTheme)                                          -->
 <!--                                                                         -->
 <!-- Maintained by: Purplest, Inc.                                           -->
@@ -24,7 +24,7 @@
 	<key>name</key>
 	<string>Purplest, Inc. Syntax</string>
 	<key>comment</key>
-	<string></string>
+	<string>https://github.com/PurplestInc/purplest-inc-syntax-for-textmate/purplest-inc-syntax.tmTheme</string>
 	<key>semanticClass</key>
 	<string>theme.dark.purplest-inc-syntax</string>
 	<key>colorSpaceName</key>
